@@ -2,7 +2,7 @@
 
 This is a real-time chat application front-end client created using Ember JS.
 Use this client in conjunction with
-[Ember-chat-server](https://github.com/snggen)g/ember-chat-server).
+[Ember-chat-server](https://github.com/snggeng/ember-chat-server).
 
 ## Prerequisites
 
